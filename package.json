@@ -1,0 +1,27 @@
+{
+  "name": "2021qct25",
+  "version": "1.0.0",
+  "description": "example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qulikto/2021Qct25.git"
+  },
+  "keywords": [
+    "qulokto"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qulikto/2021Qct25/issues"
+  },
+  "homepage": "https://github.com/qulikto/2021Qct25#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.10.2",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.1.3"
+  }
+}
